@@ -29,7 +29,7 @@
         }
 
         .container{
-            border: 1px solid #ccc;
+            border: 2px solid #ccc;
             padding: 50px;
         }
 
